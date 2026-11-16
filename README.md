@@ -8,14 +8,6 @@ Local sellers list items, buyers order them, and a gig driver picks up and deliv
 
 ---
 
-## Screenshots
-
-| Customer app | Driver app |
-|---|---|
-| ![Customer home](screenshots/customer-home.png) | ![Driver dashboard](screenshots/driver-dashboard.png) |
-| ![Listing detail](screenshots/listing-detail.png) | ![Active delivery](screenshots/driver-delivery.png) |
-
----
 
 ## What it does
 
